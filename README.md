@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Zelia Bontemps, PhD. I'm Microbiologist and Bioinformatician at Uppsala University.
+I'm Zelia Bontemps, PhD. I'm Bioinformatician and microbiologist at Uppsala University.
 
 - 🔭 I’m currently working on a pathogenic bacteria Legionella by using New generation sequencing and many bioinformatics tools
 - 🌱 I’m currently learning a lot of stuff (mainly coding)
